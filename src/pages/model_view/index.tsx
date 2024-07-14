@@ -38,7 +38,7 @@ const ModelView = ({ route, navigation }: any) => {
             </TouchableOpacity>
 
             {isActive && <View style={{ justifyContent: 'center', alignItems: 'center', }}>
-                <Text style={{ fontSize: 30 }}>{Object.keys(SHAPES).find(key => SHAPES[key] === shapeType)}</Text>
+                <Text style={{ fontSize: 30, color: 'black' }}>{Object.keys(SHAPES).find(key => SHAPES[key] === shapeType)}</Text>
             </View>}
 
             <Canvas>
