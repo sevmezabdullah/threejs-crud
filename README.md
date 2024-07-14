@@ -2,17 +2,20 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 #App Preview
 
-![image](https://github.com/user-attachments/assets/8ce18d3d-0195-4b45-bbc3-4e0f38496313)
+![image](https://github.com/user-attachments/assets/867e3fe4-5e14-445f-8467-3fee32ae8fd3)
 
-![image](https://github.com/user-attachments/assets/71c6832f-4d31-4f88-88e5-aafc01582780)
+![image](https://github.com/user-attachments/assets/1736f61d-3ba4-462e-b79d-f20c062f1ec1)
 
-![image](https://github.com/user-attachments/assets/66026560-ab06-42ff-98e5-b3a8d6074009)
+![image](https://github.com/user-attachments/assets/9f95bc24-1eec-43e5-8861-416a1f6ee87e)
 
-![image](https://github.com/user-attachments/assets/85d5a876-6a8a-48b3-943b-2e333d327b8b)
+![image](https://github.com/user-attachments/assets/8b78428d-3060-4632-baf5-968c02d5f41c)
 
-![image](https://github.com/user-attachments/assets/91ca1b25-9896-4320-a6a9-fecee8db7661)
+![image](https://github.com/user-attachments/assets/297edc99-1f5c-4d6b-bc6b-647030a15d1c)
 
-![image](https://github.com/user-attachments/assets/8805e269-8c24-4d9d-8979-c90b24d29f4a)
+![image](https://github.com/user-attachments/assets/4dee5228-1fe2-49a4-9af9-44742f8dcaea)
+
+![image](https://github.com/user-attachments/assets/6d2b41c0-6c1a-4cc1-b1e5-8697c6aa3189)
+
 
 
 # Getting Started
